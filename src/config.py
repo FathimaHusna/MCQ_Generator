@@ -1,0 +1,14 @@
+SUBJECT = "biology"
+TONE = "simple"
+RESPONSE_JSON_TEMPLATE = {
+    "1": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "choice here",
+            "b": "choice here",
+            "c": "choice here",
+            "d": "choice here"
+        },
+        "correct": "correct answer"
+    }
+}
