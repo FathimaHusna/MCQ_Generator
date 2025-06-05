@@ -53,13 +53,19 @@ d) Diffusion of carbon dioxide
 
 ✅ Correct: b
 
-## 📸 Screenshot
+## 📸 Screenshots
 
+Below are some screenshots of the MCQ Generator in action:
+
+### 🧾 1
 ![Output Screenshot](screenshots/output1.png)
 
+### 📋 2
 ![Output Screenshot](screenshots/output2.png)
 
+### 📋 3
 ![Output Screenshot](screenshots/output3.png)
+
 
 
 ### 🛠️ Tech Stack
