@@ -16,28 +16,13 @@ This project is a smart Multiple Choice Question (MCQ) generator tailored for **
 
 ---
 
-## 📁 Folder Structure
-MCQ_Generator/
-├── StreamlitApp.py # Main frontend interface (Streamlit)
-├── data.txt # Sample lesson content
-├── requirements.txt # Dependencies
-├── .env # API keys
-├── src/
-│ └── mcq_generator/
-│ ├── mcq_generator.py # Core logic: prompt templates and Gemini API
-│ ├── utils.py # Helpers: PDF reading, JSON cleanup
-│ ├── logger.py # Custom logging
-│ └── init.py
-
-
----
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/MCQ_Generator.git
+git clone https://github.com/FathimaHusna/MCQ_Generator
 cd MCQ_Generator
 
 ### 2. Create and activate virtual environment
@@ -67,6 +52,15 @@ c) Conversion of glucose into energy
 d) Diffusion of carbon dioxide
 
 ✅ Correct: b
+
+## 📸 Screenshot
+
+![Output Screenshot](screenshots/output1.png)
+
+![Output Screenshot](screenshots/output2.png)
+
+![Output Screenshot](screenshots/output3.png)
+
 
 ### 🛠️ Tech Stack
 
